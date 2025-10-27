@@ -34,7 +34,7 @@ Student in Data Science at the University of Essex
 
 ## Projects
 
-- [BMI Calculator]() – Short description  
+- [BMI Calculator](https://github.com/matt9891-stack/Utilty_BMI.git) – Short description  
 - [Project Two]() – Short description  
 
 ---
