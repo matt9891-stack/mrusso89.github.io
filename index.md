@@ -23,6 +23,7 @@ Now, with a solid foundation in data analytics and hands-on experience in both b
 
 **Bootcamp in Data Analytics**
 
+![Data Analytics Certificate](/assets/img/Certificate.png){: style="display:block; margin:auto; width:80%; max-width:600px; border:1px solid #ccc; border-radius:10px;" }
 ---
 
 ## Projects
