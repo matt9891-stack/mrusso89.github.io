@@ -1,9 +1,11 @@
 # Student in Data Science at the University of Essex
 
-### Education
+# Education
+
 Bachelor's Degree in EHS 
 
-### Work Experience
+# Work Experience
+
 Retail Manager at:
 Decathlon Italy - Department Manager - 2014
 Decathlon UK - Department Manager - 2018
