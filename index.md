@@ -6,15 +6,14 @@ title: Mattia Russo
 [About Me](#about-me) | [Master](#master) | [Education](#education)
 
 # About me 
-Student in Data Science at the University of Essex.
 
-My journey into the world of technology began in 2020 when I first downloaded an Excel course to enhance my skills in analysis and forecasting. As I explored Excel's capabilities, I realised the need for a more efficient way to access and share data with my team. This led me to study SQL and Google Looker, where I developed dashboards that provided key insights into departmental trends and best sellers for the store I managed.
+I am a Data Science student at the University of Essex with a strong background in retail management and a growing passion for data-driven decision-making.
 
-My passion for technology grew over the next two years, and I decided to deepen my expertise by enrolling in a data analytics boot camp. Here, I expanded my knowledge in SQL, Python, and Tableau, equipping myself with the tools necessary to turn data into actionable insights.
+My journey into the world of technology began in 2020, when I took my first Excel course to improve my analytical and forecasting skills. As I explored its potential, I realised the importance of having more efficient tools for sharing and analysing data. This curiosity led me to learn SQL and Google Looker, where I created interactive dashboards to track key performance indicators, department trends, and best-selling products in the stores I managed.
 
-Now, with a solid foundation in data analytics and hands-on experience in retail business and management, I'm ready to embark on a career as a Data Analyst. I'm excited to apply my skills and continue learning in this ever-evolving field.
+Motivated by my increasing interest in data, I later joined a Data Analytics Bootcamp, where I strengthened my skills in SQL, Python, and Tableau. This experience provided me with the ability to transform raw data into meaningful insights that can support strategic business decisions.
 
-I possess a wide range of transferable skills that I can apply and continue to develop for any future project, drawing on my previous experience in management and retail.
+Now, with a solid foundation in data analytics and hands-on experience in both business operations and management, I am eager to start my career as a Data Analyst. I bring a combination of technical expertise, problem-solving skills, and leadership experience that allows me to contribute effectively to any data-driven project.
 
 ---
 
