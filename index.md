@@ -3,7 +3,7 @@ layout: default
 title: Mattia Russo
 ---
 
-[About Me](#about-me) | [Master](#master) | [Projects](#projects)
+[About Me](#about-me) | [Master](#master) | [Education](#education)
 
 # Mattia Russo  
 Student in Data Science at the University of Essex
