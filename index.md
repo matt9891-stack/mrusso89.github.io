@@ -34,7 +34,7 @@ Student in Data Science at the University of Essex
 
 ## Projects
 
-- [BMI Calculator](https://github.com/matt9891-stack/Utilty_BMI.git) – In this project, we have created two small utilities that calculate the BMI (Body Mass Index) and assign a class based on the value of the index.
+[BMI Calculator](https://github.com/matt9891-stack/Utilty_BMI.git) – In this project, we have created two small utilities that calculate the BMI (Body Mass Index) and assign a class based on the value of the index.
 
 The two utilities have been developed using two of the most common programming languages, Python and JavaScript, with the final aim of comparing them.
 
@@ -42,15 +42,14 @@ Python is a programming language widely known and used for its easy syntax, as i
 
 JavaScript is a programming language used to create a dynamic interface on the website. It runs directly on the browser, but it can be used in any IDE such as VsCode by using Node.js, which is an open-source cross-platform which allows users to run JS scripts outside the browser.  
 
-- [Project Two]() – Short description  
+[Project Two]() – Short description  
 
 ---
 
 ## Contact
 
-📧 [Email](mailto:mattia.russo@email.com)  
-📞 [+39 333 123 4567](tel:+393331234567)  
-💼 [LinkedIn](https://www.linkedin.com/in/mattia-russo/)
+📧 [Email](mailto:mr25377@essex.ac.uk)  
+💼 [LinkedIn](https://www.linkedin.com/in/mattia-russo-172934153)
 
 ---
 
