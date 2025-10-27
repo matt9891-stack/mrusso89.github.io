@@ -23,7 +23,10 @@ Now, with a solid foundation in data analytics and hands-on experience in both b
 
 **Bootcamp in Data Analytics**
 
-<img src="/assets/img/Certificate.png" width="300" style="display:block; margin:auto; border:1px solid #ccc; border-radius:10px;">
+<p align="center">
+  <img src="/assets/img/Certificate.png" alt="Data Analytics Certificate" 
+       style="width:250px; border:1px solid #ccc; border-radius:10px;">
+</p>
 
 ---
 
