@@ -38,6 +38,21 @@ JavaScript is a programming language used to create a dynamic interface on the w
 ---
 # Master 
 
+Courses & Modules
+
+Launch into COmputing
+
+Numerical Analysis
+
+Deciphering Big Data
+
+Visualising Data
+
+Machine Learning
+
+Research Methods & Professional Practice
+
+MSc Computing Project
 
 ---
 
