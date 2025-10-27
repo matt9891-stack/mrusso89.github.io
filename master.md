@@ -3,7 +3,7 @@ layout: default
 title: MSc Data Science
 ---
 
-[About Me](index.html) | [Master](master.html) | [Projects](projects.html)
+[About Me](index.html) | [Master](master.html) | [Education](education.html)
 
 # MSc in Data Science
 
