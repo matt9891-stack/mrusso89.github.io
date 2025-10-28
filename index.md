@@ -4,7 +4,7 @@ title: Mattia Russo
 ---
 
 <!-- Simple navigation -->
-[About Me](#about-me) | [Master](#master) | [Education](#education) | [Projects](#projects) | [Work Experience](#work-experience) | [Contact](#contact)
+[About Me](#about-me) | [Master](#master) | [Projects](#projects) | [Languages and tools](#languagesandtools ) | [Education](#education) | [Work Experience](#work-experience) | [Contact](#contact)
 
 # About Me 
 
@@ -15,14 +15,6 @@ My journey into technology began in 2020 with my first Excel course. Later, I le
 I also joined a Data Analytics Bootcamp, strengthening my skills in SQL, Python, and Tableau, enabling me to turn raw data into meaningful insights.
 
 Now, with a solid foundation in analytics and management experience, I am eager to start my career as a Data Analyst.
-
----
-
-## Education 
-
-**Bachelor's Degree in EHS**  
-
-**Bootcamp in Data Analytics**
 
 ---
 
@@ -85,6 +77,14 @@ Postgre
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+## Education 
+
+**Bachelor's Degree in EHS**  
+
+**Bootcamp in Data Analytics**
 
 ---
 
