@@ -1,63 +1,74 @@
 ---
 layout: default
-title: Mattia Russo
+title: Mattia Russo - Data Analyst
 ---
 
-[About Me](#about-me) | [Master](#master) | [Education](#education) | [Projects](#projects) | [Work Experience](#work-experience) | [Contact](#contact)
+# 🔗 Navigation
 
-# About Me
-
-I am a Data Science student at the University of Essex with a strong background in retail management and a growing passion for data-driven decision-making.
-
-My journey into the world of technology began in 2020, when I took my first Excel course to improve my analytical and forecasting skills. As I explored its potential, I realised the importance of having more efficient tools for sharing and analysing data. This curiosity led me to learn SQL and Google Looker, creating interactive dashboards to track key performance indicators, department trends, and best-selling products in the stores I managed.
-
-Motivated by my increasing interest in data, I later joined a Data Analytics Bootcamp, where I strengthened my skills in SQL, Python, and Tableau. This experience provided me with the ability to transform raw data into meaningful insights that can support strategic business decisions.
-
-Now, with a solid foundation in data analytics and hands-on experience in both business operations and management, I am eager to start my career as a Data Analyst.
+[About Me](#about-me) | [Education](#education) | [Projects](#projects) | [Master Courses](#master-courses) | [Work Experience](#work-experience) | [Contact](#contact)
 
 ---
 
-## Education
+# <a id="about-me"></a>👋 About Me
 
-- Bachelor's Degree in EHS  
-- Bootcamp in Data Analytics
+I am a **Data Science student** at the University of Essex with a strong background in **retail management** and a growing passion for **data-driven decision-making**.
 
----
+My journey into technology began in 2020 when I took my first **Excel** course to improve my analytical and forecasting skills. This led me to learn **SQL** and **Google Looker**, where I created interactive dashboards to track key performance indicators, department trends, and best-selling products.
 
-## Projects
+Motivated by this, I joined a **Data Analytics Bootcamp**, strengthening my skills in **SQL, Python, and Tableau**. This experience provided me with the ability to transform raw data into meaningful insights that support strategic business decisions.
 
-[BMI Calculator](https://github.com/matt9891-stack/Utility_BMI.git) – Two small utilities that calculate the BMI (Body Mass Index) in Python and JavaScript, allowing a comparison between the two approaches.
-
----
-
-# Master
-
-Courses & Modules:
-
-- Launch into Computing
-- Numerical Analysis
-- Deciphering Big Data
-- Visualising Data
-- Machine Learning
-- Research Methods & Professional Practice
-- MSc Computing Project
+Now, with a solid foundation in data analytics and hands-on experience in business operations and management, I am eager to start my career as a **Data Analyst**. I bring a combination of technical expertise, problem-solving skills, and leadership experience ready to contribute effectively to any data-driven project.
 
 ---
 
-## Work Experience
+## <a id="education"></a>🎓 Education
 
-- **Decathlon Italy** – Department Manager, 2014  
-- **Decathlon UK** – Department Manager, 2018  
-- **Decathlon UK** – OPS Manager, 2019  
-- **Decathlon UK** – Store Manager, 2020  
-- **Primark** – Department Manager, 2024  
-- **Primark** – OPS Manager, 2025  
-- **Primark** – Planning & Space Report Analyst, 2025
+* **Master of Science (MSc) in Data Science**
+    * University of Essex (Current)
+* **Bootcamp in Data Analytics**
+* **Bachelor's Degree in EHS**
 
 ---
 
-## Contact
+## <a id="projects"></a>🛠️ Projects
 
-📧 [Email](mailto:mr25377@essex.ac.uk)  
-💼 [LinkedIn](https://www.linkedin.com/in/mattia-russo-172934153)
+### [BMI Calculator](https://github.com/matt9891-stack/Utilty_BMI.git)
 
+In this project, I created two small utilities to calculate the **BMI (Body Mass Index)** and assign a class based on the value of the index.
+
+* **Objective:** Compare the development process using two common programming languages: **Python** and **JavaScript**.
+* **Python:** Used for its easy syntax, versatility, and wide application in data analysis, data science, and machine learning.
+* **JavaScript:** Used to create a dynamic interface (running directly on the browser) and utilized with **Node.js** for running scripts outside the browser.
+
+---
+
+## <a id="master-courses"></a>📚 Master Courses & Modules
+
+* Launch into Computing
+* Numerical Analysis
+* Deciphering Big Data
+* Visualising Data
+* Machine Learning
+* Research Methods & Professional Practice
+* MSc Computing Project
+
+---
+
+## <a id="work-experience"></a>💼 Work Experience
+
+| Company | Role | Dates |
+| :--- | :--- | :--- |
+| **Primark** | Planning & Space Report Analyst | 2025 |
+| **Primark** | OPS Manager | 2025 |
+| **Primark** | Department Manager | 2024 |
+| **Decathlon UK** | Store Manager | 2020 |
+| **Decathlon UK** | OPS Manager | 2019 |
+| **Decathlon UK** | Department Manager | 2018 |
+| **Decathlon Italy** | Department Manager | 2014 |
+
+---
+
+## <a id="contact"></a>📧 Contact
+
+* **Email:** [mr25377@essex.ac.uk](mailto:mr25377@essex.ac.uk)
+* **LinkedIn:** [Mattia Russo](https://www.linkedin.com/in/mattia-russo-172934153)
