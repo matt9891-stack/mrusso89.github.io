@@ -3,12 +3,6 @@ layout: default
 title: Mattia Russo
 ---
 
-<style>
-body {
-  background-color: #f5f5f5; /* grigio chiaro */
-}
-</style>
-
 [About Me](#about-me) | [Master](#master) | [Education](#education)
 
 # About me 
