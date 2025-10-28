@@ -4,7 +4,7 @@ title: Mattia Russo
 ---
 
 <!-- Simple navigation -->
-[About Me](#about-me) | [Master](#master) | [Projects](#projects) | [Languages and tools](#languagesandtools ) | [Education](#education) | [Work Experience](#work-experience) | [Contact](#contact)
+[About Me](#about-me) | [Master](#master) | [Projects](#projects) | [Languages and tools](#languages-and-tools) | [Education](#education) | [Work Experience](#work-experience) | [Contact](#contact)
 
 # About Me 
 
@@ -34,19 +34,22 @@ Courses & Modules:
 
 ## Projects 
 
-[BMI Calculator](https://github.com/matt9891-stack/Utilty_BMI.git) – This project includes two small utilities that calculate the BMI (Body Mass Index) in Python and JavaScript, comparing their outputs and approaches.
+[BMI Calculator](https://github.com/matt9891-stack/Utility_BMI) – This project includes two small utilities that calculate the BMI (Body Mass Index) in Python and JavaScript, comparing their outputs and approaches.
 
 ---
 
 ## Languages and tools
 
-Python
-Pandas
-Numpy
-Matplotlib
-Seaborn
-R
-Postgre
+Python  
+Pandas  
+Numpy  
+Matplotlib  
+Seaborn  
+R  
+PostgreSQL  
+SciPy  
+Scikit-learn  
+SQL Server  
 
 <p align="left">
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
@@ -59,13 +62,16 @@ Postgre
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/logo_dark.svg" alt="matplotlib" width="40" height="40"/>
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://scipy.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/SciPy_logo_2020.svg" alt="scipy" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
