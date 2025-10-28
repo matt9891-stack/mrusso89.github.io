@@ -4,7 +4,7 @@ title: Mattia Russo
 ---
 
 <!-- Simple navigation -->
-[About Me](#about-me) | [Master](#master) | [Projects](#projects) | [Languages and tools](#languages-and-tools) | [Education](#education) | [Work Experience](#work-experience) | [Contact](#contact)
+[About Me](#about-me) | [Master](#master) | [Projects](#projects) | [Languages-and-tools](#languages-and-tools) | [Education](#education) | [Work Experience](#work-experience) | [Contact](#contact)
 
 # About Me 
 
@@ -38,7 +38,7 @@ Courses & Modules:
 
 ---
 
-## Languages and tools
+## Languages-and-tools
 
 Python  
 Pandas  
