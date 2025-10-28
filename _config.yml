@@ -2,7 +2,7 @@ title: Mattia Russo
 logo: assets/img/Foto.png
 description: My portfolio of projects from the MSc in Data Science at the University of Essex
 show_downloads: false
-theme: jekyll-theme-yat
+theme: jekyll-theme-minimal
 
 include:
   - assets/css/style.css
